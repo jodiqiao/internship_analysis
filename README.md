@@ -14,7 +14,7 @@ No deployment for this project.
 
 ### Prerequisites
 
-If you would like to run my script, please install the following:
+If you would like to run my script, please install the following:<br/>
 • python 3, beautifulsoup, requests library<br/>
 • jupyter notebook<br/>
 
