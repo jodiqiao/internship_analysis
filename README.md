@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here.
 
-Preliminary:
+Preliminary:<br/>
 • data scrape.ipynb<br/>
 • save csv<br/>
 • data analysis.ipynb<br/>
