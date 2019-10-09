@@ -24,7 +24,7 @@ If you wish to run my script, please install:
 
 Overview of data.
 
-### Pre-procssing
+### Pre-processing
 
 ### What companies am I likely to work for...
 
