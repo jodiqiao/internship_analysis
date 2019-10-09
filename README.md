@@ -10,9 +10,13 @@ The guinea pig I used is Indeed.ca. I wanted to scrape its query results, which 
 If you wish to run my script, please install:
 
 • Python 3.0
+
 • Requests, BeautifulSoup
+
 • Pandas, Numpy, Matplotlib
+
 • Geopandas, Descartes
+
 • NLTK, sklearn, re
 
 
