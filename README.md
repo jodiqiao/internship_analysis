@@ -5,7 +5,7 @@ Hello reader. I used this project to practice web scraping, data munging and dat
 The guinea pig I used is Indeed.ca. I wanted to scrape its query results, which are job postings, for text of job title, company name, location, summary and salary. The purpose of this analysis is to understand internship postings I may be personally interested in.
 
 
-## Python Packages
+### Python Packages
 
 If you wish to run my script, please install:
 
@@ -24,7 +24,7 @@ If you wish to run my script, please install:
 
 Overview of data.
 
-### Raw data details
+### Pre-procssing
 
 ### What companies am I likely to work for...
 
@@ -32,7 +32,10 @@ Overview of data.
 
 ### What are keywords HR like to use?
 
-## Acknowledgments
+
+### Conclusions
+
+### Acknowledgments
 
 A big thanks to Haolong, my ITI1120 teaching assistant. He gave me tips on dataframes and graphs.
 
