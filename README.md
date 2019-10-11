@@ -36,6 +36,12 @@ Overview of data.
 
 ### What are keywords HR like to use?
 
+![Machine Graph](/test_csvs/test_pngs/machine.png)
+
+![Software Graph](/test_csvs/test_pngs/software.png)
+
+![Dev Graph](/test_csvs/test_pngs/dev.png)
+
 
 ### Conclusions
 
