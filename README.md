@@ -32,6 +32,8 @@ Overview of data.
 
 ### Which Canadian city will I be in?
 
+![Location Coropleth](/images/location_choropleth.png)
+
 ### What are keywords HR like to use?
 
 
