@@ -28,6 +28,8 @@ Overview of data.
 
 ### What companies am I likely to work for...
 
+![Company Wordcloud](/images/company_wordcloud.png)
+
 ### Which Canadian city will I be in?
 
 ### What are keywords HR like to use?
