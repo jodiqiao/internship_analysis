@@ -28,7 +28,7 @@ Overview of data.
 
 ### What companies am I likely to work for...
 
-![Company Wordcloud](company_wordcloud.png)
+![Company Wordcloud](/images/company_wordcloud.png)
 
 ### Which Canadian city will I be in?
 
