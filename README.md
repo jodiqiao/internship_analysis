@@ -49,7 +49,7 @@ Overview of data.
 </p>
 
 <p align="center"> 
-<img src="/test_csvs/test_pngs/dev.png">
+<img src="/test_csvs/test_pngs/developer.png">
 </p>
 
 ### Conclusions
