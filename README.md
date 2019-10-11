@@ -29,21 +29,28 @@ Overview of data.
 ### What companies am I likely to work for...
 
 <p align="center"> 
-<img src="/images/company_wordcloud.png?">
+<img src="/images/company_wordcloud.png">
 </p>
 
 ### Which Canadian city will I be in?
 
-![Location Coropleth](/images/location_choropleth.png)
+<p align="center"> 
+<img src="/images/location_choropleth.png">
+</p>
 
 ### What are keywords HR like to use?
 
-![Machine Graph](/test_csvs/test_pngs/machine.png)
+<p align="center"> 
+<img src="/test_csvs/test_pngs/machine.png">
+</p>
 
-![Software Graph](/test_csvs/test_pngs/software.png)
+<p align="center"> 
+<img src="/test_csvs/test_pngs/software.png">
+</p>
 
-![Dev Graph](/test_csvs/test_pngs/dev.png)
-
+<p align="center"> 
+<img src="/test_csvs/test_pngs/dev.png">
+</p>
 
 ### Conclusions
 
