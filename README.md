@@ -73,6 +73,8 @@ Geopandas and Descartes helped combine job location count and the Canadian map t
 
 ### What are keywords HR like to use?
 
+Top 5 frequency of tokenized text in summary text by preferred job title keyword
+
 <p align="center"> 
 <img src="/test_csvs/test_pngs/machine.png">
 </p>
@@ -86,6 +88,14 @@ Geopandas and Descartes helped combine job location count and the Canadian map t
 </p>
 
 ### Conclusions
+
+• TD's overrepresentation could be because I've previously found employment there through indeed.ca
+
+• Hence, data found through commercial search engines are all likely to be highly biased
+
+• The fact that not only a sizable number of jobs are in Toronto, but also Montreal and Ottawa, came as a surprise to me
+
+• Summary text, in general, didn't offer much insight into qualifications sought; however, it seems like python is a favoured language, and 'software'/'developer positions' are likely to seek candidates with knowledge of java, c
 
 ### Acknowledgments
 
