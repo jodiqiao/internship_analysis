@@ -64,7 +64,7 @@ Geopandas and Descartes helped combine job location count and the Canadian map t
 • Internship postings highly concentrated in Ontario with a total of 566 out of 976, with no close second
 
 <p align="center"> 
-<img src="/images/location_choropleth.png">
+<img src="/images/top_cities.png">
 </p>
 
 • Toronto is the city with the greatest number of relevant internships
