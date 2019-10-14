@@ -22,9 +22,18 @@ If you wish to run my script, please install:
 
 ### Overview
 
-Overview of data.
+Overview of data scraped on indeed.ca on September 23rd 2019.
+
+• Queried indeed.ca for jobs with keywords: 'data+intern', 'devops+intern', 'full+stack+intern', 'python+intern', 'tester+intern'; max results = 5000
+• Final combined csv: 5 columns, 976 rows
+• Column names: 'job_title', 'company_name', 'location', 'summary', 'salary'
+• Data type: all strings/objects
+• 521 unique job titles, 252 unique company names, only 25 postings with salary information
 
 ### Pre-processing
+
+• Used pandas dataframe methods to clean scraped data
+• Used word_tokenize method from NLTK to split the summary text, extracted summary words without stopwords (sklearn)
 
 ### What companies am I likely to work for...
 
@@ -32,11 +41,27 @@ Overview of data.
 <img src="/images/company_wordcloud.png">
 </p>
 
+WordCloud python library was used to generate this image.
+
+• TD Bank is overrepresented
+• Ciena takes second
+
 ### Which Canadian city will I be in?
 
 <p align="center"> 
 <img src="/images/location_choropleth.png">
 </p>
+
+Geopandas and Descartes helped combine job location count and the Canadian map to create a choropleth map.
+.shp data of the Canadian map was found [here.](https://www.sciencebase.gov/catalog/item/5ab555c6e4b081f61ab78093)
+
+• Internship postings highly concentrated in Ontario with a total of 566 out of 976, with no close second
+
+<p align="center"> 
+<img src="/images/location_choropleth.png">
+</p>
+• Toronto is the city with the greatest number of relevant internships
+• Montreal, Vancouver and Ottawa are all great places to be in for tech internships
 
 ### What are keywords HR like to use?
 
