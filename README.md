@@ -69,7 +69,7 @@ Geopandas and Descartes helped combine job location count and the Canadian map t
 
 • Toronto is the city with the greatest number of relevant internships
 
-• Montreal, Vancouver and Ottawa are all great places to be in for tech internships
+• Montreal, Vancouver and Ottawa are comparable
 
 ### What are keywords HR like to use?
 
