@@ -103,4 +103,4 @@ A big thanks to Haolong, my ITI1120 teaching assistant. He gave me tips on dataf
 
 Another shout out to awesome data bloggers at Medium.com, whose code I studied.
 
-Thank you Google, Stackoverflow, Kaggle - and various other open source information.
+Thank you Google, Stackoverflow, Kaggle - and various other open sources of information.
