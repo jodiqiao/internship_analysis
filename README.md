@@ -93,7 +93,7 @@ Top 5 frequency of tokenized text in summary text by preferred job title keyword
 
 • Hence, data found through commercial search engines are all likely to be highly biased
 
-• The fact that not only a sizable number of jobs are in Toronto, but also Montreal and Ottawa
+• Not only a sizable number of jobs are in Toronto, but also Montreal and Ottawa
 
 • Summary text, in general, didn't offer much insight into qualifications sought; however, it seems like python is a favoured language, and 'software'/'developer positions' are likely to seek candidates with knowledge of java, c
 
