@@ -73,7 +73,7 @@ Geopandas and Descartes helped combine job location count and the Canadian map t
 
 ### What are keywords HR like to use?
 
-Top 5 frequency of tokenized text in summary text by preferred job title keyword
+Top 3 frequency of tokenized text in summary text by preferred job title keyword
 
 <p align="center"> 
 <img src="/test_csvs/test_pngs/machine.png">
