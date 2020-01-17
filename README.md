@@ -93,7 +93,7 @@ Top 3 frequency of tokenized text in summary text by preferred job title keyword
 
 • Hence, data found through commercial search engines are all likely to be highly biased
 
-• Not only are there a sizable number of data intern opportunities in Toronto, but also in Montreal and Ottawa... which is great for me!
+• Not only are there a sizable number of data intern opportunities in Toronto, but also in Montreal and Ottawa
 
 • Summary text, in general, didn't offer much insight into qualifications sought; however, it seems like python is a favoured language, and 'software'/'developer' positions are likely to seek candidates with knowledge of java, c
 
